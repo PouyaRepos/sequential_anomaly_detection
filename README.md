@@ -2,3 +2,7 @@ This code is part of my thesis "Sequential Learning for Optimal Detection of Rar
 
 This code is licensed under a custom non-commercial license.
 See LICENSE for details. Commercial use is prohibited.
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PouyaRepos/sequential_anomaly_detection/blob/main/example.ipynb)
